@@ -1,4 +1,6 @@
-🔍 Apaixonada por Qualidade de Software, Testes e Desenvolvimento Mobile
-📌 Experiência em testes manuais e automação (Cypress)
-🌱 Sempre aprendendo sobre QA, desenvolvimento e metodologias ágeis
-💡 Projetos voltados para sustentabilidade, tecnologia e experiência do usuário
+Olá mundo! ☺️
+Eu sou a Ana, uma desenvolvedora de software Recifense🐬
+Eu gosto de enxergar a tecnologia como um meio de tornar ideias criativas, quase surrealistas, em realidade.
+Ao longo dos meus estudos, venho desenvolvendo uma paixão por qualidade de software e no momento estou focada em aperfeiçoar essa skill.
+
+Abaixo você pode dar uma olhada em projetos divertidos eu eu fiz 💖 ✨
